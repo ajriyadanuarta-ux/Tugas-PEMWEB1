@@ -1,0 +1,32 @@
+
+            h1.center{
+                color: rgb(23, 111, 141);
+            }
+            h2.Poin{
+                color: rgb(23, 111, 141);
+            }
+            h3.Sub{
+                color: rgb(23, 111, 141);
+            }
+            header{
+                display: flex;
+                align-items: center;
+                gap: 20px;
+            }
+            .judul-container{
+                border-bottom: 2px solid #1f4e79;
+            }
+       .about-container{
+        display: flex;
+        align-items: center;
+        gap: 40px;
+       }
+
+       .foto-about{
+        width: 200px;
+        border-radius: 5%;
+       }
+
+       .about-text{
+        max-width: 600px;
+       }
